@@ -16,4 +16,6 @@ npx hardhat run scripts/deploy.js
 
 https://sepolia.etherscan.io/address/0x23C65E0Cb5C5EDE4765f75AA6207B537d576Be7F#code
 
+⚠️ The following contract(s) are unauditied. Please be carefull before deploying them on mainnet. ⚠️
+
 
